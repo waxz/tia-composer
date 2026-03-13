@@ -1,3 +1,17 @@
+# TIA Composer
+
+
+## Install
+```bash
+uv pip install .
+```
+
+## Run
+```bash
+python test.py
+```
+
+
 ## Example functionality when using TIA Openness with Python
 
 Basic "hello world": https://github.com/Maroder1/TIA-openness
