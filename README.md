@@ -7,9 +7,18 @@ uv pip install .
 ```
 
 ## Run
+- run test
 ```bash
 python test.py
 ```
+
+- run script
+```bash
+tia-composer
+```
+
+
+
 
 
 ## Example functionality when using TIA Openness with Python
